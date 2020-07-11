@@ -9,16 +9,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/estebansolorzano/" target="_blank">
-    <img src="linkedin.png" width="30px">
-  </a>
-  
-  <a href="https://twitter.com/estebansolo" target="_blank">
-    <img src="twitter.png" width="30px">
-  </a>
-  
-  <a href="https://medium.com/@estebansolo27" target="_blank">
-    <img src="medium.png" width="30px">
-  </a>
-</p>
+I am Esteban, I'm currently working on... anything I'm interested in.
+
+<a href="https://www.linkedin.com/in/estebansolorzano/" target="_blank">
+  <img src="linkedin.png" width="30px">
+</a>
+
+<a href="https://twitter.com/estebansolo" target="_blank">
+  <img src="twitter.png" width="30px">
+</a>
+
+<a href="https://medium.com/@estebansolo27" target="_blank">
+  <img src="medium.png" width="30px">
+</a>

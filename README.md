@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <center>
-  [<img src="linkedin.png">](https://www.linkedin.com/in/estebansolorzano/)
-  [<img src="twitter.png">](https://twitter.com/estebansolo)
-  [<img src="medium.png">](https://medium.com/@estebansolo27)
+  <a href="https://www.linkedin.com/in/estebansolorzano/" target="_blank">
+    <img src="linkedin.png">
+  </a>
+  
+  <a href="https://twitter.com/estebansolo" target="_blank">
+    <img src="twitter.png">
+  </a>
+  
+  <a href="https://medium.com/@estebansolo27" target="_blank">
+    <img src="medium.png">
+  </a>
 </center>

@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+  [<img src="linkedin.png">](https://www.linkedin.com/in/estebansolorzano/)
+  [<img src="twitter.png">](https://twitter.com/estebansolo)
+  [<img src="medium.png">](https://medium.com/@estebansolo27)
+</center>

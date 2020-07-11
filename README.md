@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <center>
   <a href="https://www.linkedin.com/in/estebansolorzano/" target="_blank">
-    <img src="linkedin.png">
+    <img src="linkedin.png" width="30px">
   </a>
   
   <a href="https://twitter.com/estebansolo" target="_blank">
-    <img src="twitter.png">
+    <img src="twitter.png" width="30px">
   </a>
   
   <a href="https://medium.com/@estebansolo27" target="_blank">
-    <img src="medium.png">
+    <img src="medium.png" width="30px">
   </a>
 </center>

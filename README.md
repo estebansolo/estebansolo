@@ -9,7 +9,19 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -->
 
-I am Esteban, I'm currently working on... anything I'm interested in.
+I am Esteban, I'm currently working on... anything I'm interested.
+
+<p align="center">  
+  <a href="https://github.com/estebansolo/Python30">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estebansolo&repo=python30&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=estebansolo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</p>
 
 <a href="https://www.linkedin.com/in/estebansolorzano/" target="_blank">
   <img src="linkedin.png" width="30px">
@@ -22,17 +34,3 @@ I am Esteban, I'm currently working on... anything I'm interested in.
 <a href="https://medium.com/@estebansolo27" target="_blank">
   <img src="medium.png" width="30px">
 </a>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=estebansolo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/estebansolo/Python30">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estebansolo&repo=python30&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
-</p>

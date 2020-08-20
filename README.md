@@ -23,14 +23,14 @@ I am Esteban, I'm currently working on... anything I'm interested.
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/estebansolorzano/" target="_blank">
+<a href="https://www.linkedin.com/in/estebansolo/" target="_blank">
   <img src="linkedin.png" width="30px">
 </a>
 
-<a href="https://twitter.com/estebansolo" target="_blank">
+<a href="https://twitter.com/estebansolo27" target="_blank">
   <img src="twitter.png" width="30px">
 </a>
 
-<a href="https://medium.com/@estebansolo27" target="_blank">
+<a href="https://medium.com/@estebansolo" target="_blank">
   <img src="medium.png" width="30px">
 </a>

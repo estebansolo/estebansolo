@@ -9,7 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -->
 
-I am Esteban, I'm currently working on... anything I'm interested.
+I am Esteban...
+
+- 🔭 I’m currently working on Python :snake:.
+- 🌱 I’m currently learning Flutter and Machine Learning.
 
 <p>  
   <a href="https://github.com/estebansolo/Python30">

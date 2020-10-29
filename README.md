@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 I am Esteban...
 
 - 🔭 I’m currently working on Python :snake:.
-- 🌱 I’m currently learning Flutter and Machine Learning.
+- 🌱 I’m currently learning Golang.
 
 <p>  
   <a href="https://github.com/estebansolo/Python30">

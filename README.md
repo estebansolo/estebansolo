@@ -26,6 +26,9 @@ I am Esteban...
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebansolo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://www.linkedin.com/in/estebansolo/" target="_blank">
   <img src="linkedin.png" width="30px">
 </a>

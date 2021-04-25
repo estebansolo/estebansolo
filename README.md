@@ -1,9 +1,15 @@
 # Hi there 👋
 
-I am Esteban...
+My name is Esteban, I'm a Python Backend Engineer, however, I'm passionate about everything related to technology and I've learned different tools:
 
-- 🔭 I’m currently working on Python :snake:.
-- 🌱 I’m currently learning Golang.
+- HTML5 & CSS3
+- JavaScript & PHP
+- AWS Cloudformation
+- React, MongoDB, Ansible
+
+:books:	I am currently learning Golang in addition to continue learning and keeping updated about Python :snake:.
+
+:eyes: Occasionally I write about topics that interest me (I must take it up again :sweat_smile:).
 
 <p align='center'>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
